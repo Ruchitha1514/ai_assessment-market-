@@ -1,0 +1,191 @@
+{
+  "summary": "The NBFC sector is undergoing significant regulatory and operational changes driven by policy updates and digital transformation.",
+  "drivers": [
+    "RBI Regulatory Updates",
+    "Growth of Digital Lending Platforms",
+    "Increased Risk Oversight"
+  ],
+  "competitors": [
+    "Shriram Finance",
+    "Manappuram Finance",
+    "Muthoot Finance",
+    "Bajaj Finserv",
+    "HDFC Ltd"
+  ],
+  "impact_radar": [
+    {
+      "event": "RBI issues new compliance guidelines for NBFCs",
+      "impact_level": "High",
+      "score": 85,
+      "why": [
+        "Direct regulatory impact on operations",
+        "Increased reporting requirements"
+      ],
+      "actions": [
+        "Conduct compliance audit",
+        "Update internal policies"
+      ],
+      "url": "https://www.rbi.org.in"
+    },
+    {
+      "event": "Tightening of digital lending norms",
+      "impact_level": "High",
+      "score": 82,
+      "why": [
+        "Stricter customer verification",
+        "Higher technology costs"
+      ],
+      "actions": [
+        "Upgrade KYC systems",
+        "Review digital onboarding flows"
+      ],
+      "url": "https://www.rbi.org.in"
+    },
+    {
+      "event": "Increased scrutiny on NBFC liquidity management",
+      "impact_level": "High",
+      "score": 80,
+      "why": [
+        "Stronger liquidity buffers required",
+        "Higher capital allocation"
+      ],
+      "actions": [
+        "Improve liquidity forecasting",
+        "Rebalance loan portfolio"
+      ],
+      "url": "https://www.business-standard.com"
+    },
+    {
+      "event": "Expansion of fintech partnerships in NBFC sector",
+      "impact_level": "Medium",
+      "score": 70,
+      "why": [
+        "Operational dependency on fintechs",
+        "Data sharing risks"
+      ],
+      "actions": [
+        "Define partner risk framework",
+        "Strengthen data governance"
+      ],
+      "url": "https://economictimes.indiatimes.com"
+    },
+    {
+      "event": "Rise in compliance cost due to regulatory audits",
+      "impact_level": "High",
+      "score": 78,
+      "why": [
+        "More frequent inspections",
+        "Need for dedicated compliance teams"
+      ],
+      "actions": [
+        "Allocate compliance budget",
+        "Train internal audit teams"
+      ],
+      "url": "https://www.rbi.org.in"
+    },
+    {
+      "event": "Increased focus on customer data protection",
+      "impact_level": "Medium",
+      "score": 72,
+      "why": [
+        "Stricter data privacy expectations",
+        "Risk of penalties on breaches"
+      ],
+      "actions": [
+        "Enhance data security controls",
+        "Review data access policies"
+      ],
+      "url": "https://www.meity.gov.in"
+    },
+    {
+      "event": "Growth in demand for digital-first lending products",
+      "impact_level": "Medium",
+      "score": 68,
+      "why": [
+        "Customer preference for online services",
+        "Increased competition"
+      ],
+      "actions": [
+        "Launch digital lending products",
+        "Improve mobile platforms"
+      ],
+      "url": "https://economictimes.indiatimes.com"
+    },
+    {
+      "event": "RBI emphasis on risk-based supervision",
+      "impact_level": "High",
+      "score": 83,
+      "why": [
+        "Continuous monitoring by regulators",
+        "Higher penalties for non-compliance"
+      ],
+      "actions": [
+        "Implement risk dashboards",
+        "Strengthen governance frameworks"
+      ],
+      "url": "https://www.rbi.org.in"
+    },
+    {
+      "event": "Pressure on NBFC margins due to interest rate volatility",
+      "impact_level": "Medium",
+      "score": 75,
+      "why": [
+        "Rising cost of funds",
+        "Lower lending margins"
+      ],
+      "actions": [
+        "Reprice loan products",
+        "Optimize funding sources"
+      ],
+      "url": "https://www.business-standard.com"
+    },
+    {
+      "event": "Increased regulatory focus on customer grievance redressal",
+      "impact_level": "Medium",
+      "score": 70,
+      "why": [
+        "Mandatory response timelines",
+        "Higher customer service expectations"
+      ],
+      "actions": [
+        "Strengthen grievance handling process",
+        "Deploy customer support automation"
+      ],
+      "url": "https://www.rbi.org.in"
+    }
+  ],
+  "opportunities": [
+    "Automation of compliance workflows",
+    "Expansion into underserved credit markets",
+    "Partnerships with fintech platforms",
+    "Advanced credit risk analytics",
+    "Digital-first lending products"
+  ],
+  "risks": [
+    "Regulatory penalties",
+    "Higher operational costs",
+    "Liquidity management challenges",
+    "Credit default risk",
+    "Reputational damage"
+  ],
+  "90_day_plan": {
+    "0_30": [
+      "Review latest RBI guidelines",
+      "Perform internal compliance audit"
+    ],
+    "30_60": [
+      "Revise credit and risk policies",
+      "Implement compliance tracking systems"
+    ],
+    "60_90": [
+      "Optimize lending workflows",
+      "Deploy advanced risk analytics"
+    ]
+  },
+  "sources": [
+    "https://www.rbi.org.in",
+    "https://economictimes.indiatimes.com",
+    "https://www.business-standard.com",
+    "https://www.meity.gov.in"
+  ]
+}

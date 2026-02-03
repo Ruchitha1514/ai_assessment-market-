@@ -1,0 +1,30 @@
+2026-02-03 10:56:02,551 - [MCP] search_web called
+2026-02-03 10:56:02,563 - [MCP] fetch_url called
+2026-02-03 10:56:05,096 - [MCP] clean_extract called
+2026-02-03 10:56:05,159 - [MCP] extract_entities called
+2026-02-03 10:56:05,171 - [MCP] fetch_url called
+2026-02-03 10:56:06,544 - [MCP] clean_extract called
+2026-02-03 10:56:07,106 - [MCP] extract_entities called
+2026-02-03 10:56:07,116 - [MCP] fetch_url called
+2026-02-03 10:56:07,440 - not a 200 response: 403 for URL https://www.business-standard.com
+2026-02-03 10:56:07,451 - [MCP] clean_extract called
+2026-02-03 10:56:07,459 - [MCP] extract_entities called
+2026-02-03 10:56:07,490 - [MCP] impact_score called
+2026-02-03 10:56:07,498 - [MCP] impact_score called
+2026-02-03 10:56:07,507 - [MCP] impact_score called
+2026-02-03 10:56:07,523 - [MCP] generate_market_report called
+2026-02-03 11:04:10,948 - [MCP] search_web called
+2026-02-03 11:04:10,958 - [MCP] fetch_url called
+2026-02-03 11:04:12,228 - [MCP] clean_extract called
+2026-02-03 11:04:12,290 - [MCP] extract_entities called
+2026-02-03 11:04:12,299 - [MCP] fetch_url called
+2026-02-03 11:04:13,224 - [MCP] clean_extract called
+2026-02-03 11:04:13,769 - [MCP] extract_entities called
+2026-02-03 11:04:13,778 - [MCP] fetch_url called
+2026-02-03 11:04:14,172 - not a 200 response: 403 for URL https://www.business-standard.com
+2026-02-03 11:04:14,182 - [MCP] clean_extract called
+2026-02-03 11:04:14,195 - [MCP] extract_entities called
+2026-02-03 11:04:14,206 - [MCP] impact_score called
+2026-02-03 11:04:14,217 - [MCP] impact_score called
+2026-02-03 11:04:14,227 - [MCP] impact_score called
+2026-02-03 11:04:14,242 - [MCP] generate_market_report called
