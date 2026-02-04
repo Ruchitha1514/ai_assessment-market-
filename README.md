@@ -36,11 +36,4 @@ python -m uvicorn mcp_server.server:app --reload
 3. Start API Server (new terminal)
 python -m uvicorn api.main:app --reload --port 9000
 
-Sample Output
 
-Generated report:
-
-sample_output/report.json
-
-Logs
-logs/execution.log
